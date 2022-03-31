@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod $USER:school hello
