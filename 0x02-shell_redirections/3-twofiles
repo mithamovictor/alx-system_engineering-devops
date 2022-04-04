@@ -1,2 +1,2 @@
 #!/bin/bash
-tail /etc/passwd && tail /etc/hosts
+cat /etc/passwd && head -3 /etc/hosts
