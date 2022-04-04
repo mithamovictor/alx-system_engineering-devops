@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -t | head -n 10
+tail -1t | head -10
