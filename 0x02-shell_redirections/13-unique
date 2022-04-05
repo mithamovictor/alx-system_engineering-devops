@@ -1,0 +1,2 @@
+#!/bin/bash
+sort /tmp/0x02$ | uniq -u
